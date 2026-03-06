@@ -40,12 +40,6 @@ The charting engine is the centrepiece of MetaTrader's technical analysis capabi
 
 ---
 
-<p align="center">
-  <img src="https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/content2/img/mt4-mac-hero-desktop.jpg/jcr:content/renditions/original-size.webp" alt="MetaTrader screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 MetaTrader's dominance in retail trading stems from a combination of reliable broker connectivity, deep analytical tools, and the open automation framework that Expert Advisors provide. For Mac users who trade forex or CFDs, it delivers the same platform that professional retail traders worldwide rely on without compromise.
